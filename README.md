@@ -9,7 +9,7 @@ This project monitors milk temperature using IoT technology to help maintain sui
 - NodeMCU ESP8266
 - DS18B20 Temperature Sensor
 - Jumper wires
-- Power supply
+-  USB Power supply
 
 ## Software Requirements
 
