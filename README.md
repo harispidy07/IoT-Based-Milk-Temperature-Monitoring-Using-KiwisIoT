@@ -67,7 +67,7 @@ const char* topic = "YOUR_TOPIC_ID";
 [IoT-Based Milk Temperature Monitoring Using KiwisIoT](https://www.hackster.io/harispidy07/iot-based-milk-temperature-monitoring-using-kiwisiot-4e4b42)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
